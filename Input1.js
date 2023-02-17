@@ -1,5 +1,5 @@
 //1
-const readLine= require('readline-sync')
+const readLine= require('readline-sync');
 let answer = readLine.question("Would you like to hear a joke? ");
 if (answer == "yes"){
     console.log('Thanks for explaining the word many for me, It means a lot');

@@ -1,5 +1,5 @@
 //1
-const readLine= require('readline-sync')
+const readLine= require('readline-sync');
 
 let num1 = Number(readLine.question("Enter first number: "));
 let num2 = Number(readLine.question("Enter first number: "));
